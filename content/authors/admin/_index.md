@@ -1,5 +1,5 @@
 ---
-avatar_filename: picture.jpeg
+avatar_filename: picture.jpg
 bio: My research interests include AI, deep learning, nlp, and biomedical imaging.
 interests:
   - Artificial Intelligence
@@ -20,7 +20,7 @@ social:
     link: https://scholar.google.co.uk/citations?user=sIwtMXoAAAAJ
   - icon: github
     icon_pack: fab
-    link: https://github.com/gcushen
+    link: https://github.com/ChadiHelwe
   - icon: linkedin
     icon_pack: fab
     link: https://www.linkedin.com/
