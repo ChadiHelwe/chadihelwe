@@ -1,4 +1,5 @@
 ---
+avatar_filename: picture.jpeg
 bio: My research interests include AI, deep learning, nlp, and biomedical imaging.
 interests:
   - Artificial Intelligence
