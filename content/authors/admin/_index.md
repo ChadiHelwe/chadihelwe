@@ -1,5 +1,5 @@
 ---
-avatar_filename: picture.jpg
+avatar_filename: avatar.jpg
 bio: My research interests include AI, deep learning, nlp, and biomedical imaging.
 interests:
   - Artificial Intelligence
@@ -32,13 +32,13 @@ education:
   courses:
     - course: Ph.D. in Artificial Intelligence
       institution: Institut Polytechnique de Paris
-      year: ""
+      year: 2024
     - course: Msc in Computer Science
       institution: American University of Beirut
-      year: ""
+      year: 2017
     - course: BSc in Computer Science
       institution: Notre Dame University - Louaize
-      year: ""
+      year: 2014
 superuser: true
 last_name: Bighetti
 role: Ph.D Candidate in Artificial Intelligence
