@@ -26,8 +26,8 @@ social:
     icon_pack: fab
     link: https://www.linkedin.com/
 organizations:
-  - name: Stanford University
-    url: https://www.stanford.edu/
+  - name: Insititut Polytechnique de Paris
+    url: https://www.ip-paris.fr/
 education:
   courses:
     - course: Ph.D. in Artificial Intelligence
