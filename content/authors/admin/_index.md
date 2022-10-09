@@ -3,8 +3,9 @@ avatar_filename: picture.jpg
 bio: My research interests include AI, deep learning, nlp, and biomedical imaging.
 interests:
   - Artificial Intelligence
-  - Computational Linguistics
-  - Information Retrieval
+  - Machine Learning/Deep Learning
+  - Natural Language Processing
+  - Biomedical Imaging
 social:
   - icon: envelope
     icon_pack: fas
@@ -29,15 +30,15 @@ organizations:
     url: https://www.stanford.edu/
 education:
   courses:
-    - course: PhD in Artificial Intelligence
-      institution: Stanford University
-      year: 2012
-    - course: MEng in Artificial Intelligence
-      institution: Massachusetts Institute of Technology
-      year: 2009
-    - course: BSc in Artificial Intelligence
-      institution: Massachusetts Institute of Technology
-      year: 2008
+    - course: Ph.D. in Artificial Intelligence
+      institution: Institut Polytechnique de Paris
+      year: ""
+    - course: Msc in Computer Science
+      institution: American University of Beirut
+      year: ""
+    - course: BSc in Computer Science
+      institution: Notre Dame University - Louaize
+      year: ""
 superuser: true
 last_name: Bighetti
 role: Ph.D Candidate in Artificial Intelligence
