@@ -1,6 +1,5 @@
 ---
-bio: My research interests include distributed robotics, mobile computing and
-  programmable matter.
+bio: My research interests include AI, deep learning, nlp, and biomedical imaging.
 interests:
   - Artificial Intelligence
   - Computational Linguistics
@@ -11,7 +10,7 @@ social:
     link: /#contact
   - icon: twitter
     icon_pack: fab
-    link: https://twitter.com/GeorgeCushen
+    link: https://twitter.com/Chadi_Helwe
     label: Follow me on Twitter
     display:
       header: true
@@ -40,9 +39,9 @@ education:
       year: 2008
 superuser: true
 last_name: Bighetti
-role: Professor of Artificial Intelligence
+role: Ph.D Candidate in Artificial Intelligence
 highlight_name: true
-title: Alice Bighetti 吳恩達
+title: Chadi Helwe
 first_name: Alice
 email: ""
 ---
