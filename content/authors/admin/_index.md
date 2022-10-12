@@ -9,7 +9,7 @@ interests:
 social:
   - icon: envelope
     icon_pack: fas
-    link: chadi.helwe@telecom-paris.fr
+    link: mailto:chadi.helwe@telecom-paris.fr
   - icon: twitter
     icon_pack: fab
     link: https://twitter.com/Chadi_Helwe
