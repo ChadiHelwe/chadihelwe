@@ -18,13 +18,13 @@ social:
       header: true
   - icon: graduation-cap
     icon_pack: fas
-    link: https://scholar.google.co.uk/citations?user=sIwtMXoAAAAJ
+    link: https://scholar.google.com/citations?user=WY5jzjYAAAAJ&hl=en
   - icon: github
     icon_pack: fab
     link: https://github.com/ChadiHelwe
   - icon: linkedin
     icon_pack: fab
-    link: https://www.linkedin.com/
+    link: https://www.linkedin.com/in/chadihelwe/
 organizations:
   - name: Insititut Polytechnique de Paris
     url: https://www.ip-paris.fr/
@@ -47,4 +47,4 @@ title: Chadi Helwe
 first_name: Alice
 email: ""
 ---
-My name is Chadi Helwe
+My name is Chadi Helwe, I am a Ph.D. candidate at the Institut Polytechnique de Paris working under the supervision of Prof. Fabian Suchanek and Prof. Chloé Clavel. In my Ph.D. thesis, I am investigating methods to combine symbolic and neural approaches for textual logical reasoning. Prior to my Ph.D. studies, I received a Msc in Computer Science from the American University of Beirut (AUB) and a BSc in Computer Science from Notre Dame University - Louaize (NDU).
