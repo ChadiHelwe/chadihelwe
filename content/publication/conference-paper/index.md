@@ -16,12 +16,12 @@ summary: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere
 url_dataset: https://github.com/wowchemy/wowchemy-hugo-themes
 url_project: ""
 author_notes: []
-publication_short: In *EMNLP 2022*
+publication_short: In *Findings of EMNLP 2022*
 url_source: https://github.com/wowchemy/wowchemy-hugo-themes
 url_video: https://youtube.com
 publication: Findings of the Conference on Empirical Methods in Natural Language Processing
 featured: true
-date: 2013-07-01T00:00:00Z
+date: 2022-10-13T22:38:40.047Z
 url_slides: ""
 title: "TINA: Textual Inference with Negation Augmentation"
 tags: []
