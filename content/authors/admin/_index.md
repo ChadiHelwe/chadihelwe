@@ -33,7 +33,7 @@ education:
     - course: Ph.D. in Artificial Intelligence
       institution: Institut Polytechnique de Paris
       year: 2024
-    - course: Msc in Computer Science
+    - course: MSc in Computer Science
       institution: American University of Beirut
       year: 2017
     - course: BSc in Computer Science
