@@ -20,7 +20,7 @@ publication_short: In *Findings of EMNLP 2022*
 url_source: https://github.com/wowchemy/wowchemy-hugo-themes
 url_video: https://youtube.com
 publication: Findings of the Conference on Empirical Methods in Natural Language Processing
-featured: true
+featured: false
 date: 2022-10-13T22:38:40.047Z
 url_slides: ""
 title: "TINA: Textual Inference with Negation Augmentation"
@@ -30,7 +30,7 @@ image:
   caption: ""
   focal_point: ""
   preview_only: false
-publishDate: 2017-01-01T00:00:00Z
+publishDate: 2017-01-01T00:00:00.000Z
 url_poster: ""
 url_code: https://github.com/wowchemy/wowchemy-hugo-themes
 doi: ""
