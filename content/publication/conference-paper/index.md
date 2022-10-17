@@ -21,7 +21,7 @@ url_source: https://github.com/wowchemy/wowchemy-hugo-themes
 url_video: https://youtube.com
 publication: Findings of the Conference on Empirical Methods in Natural Language Processing
 featured: false
-date: 2022-10-13T22:38:40.047Z
+date: 2022-10-17T15:24:43.504Z
 url_slides: ""
 title: "TINA: Textual Inference with Negation Augmentation"
 tags: []
