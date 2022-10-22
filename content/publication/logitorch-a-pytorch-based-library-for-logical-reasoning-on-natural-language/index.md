@@ -8,7 +8,7 @@ authors:
   - Fabian Suchanek
 publication: "Proceedings of the 2022 Conference on Empirical Methods in Natural
   Language Processing: System Demonstrations"
-publication_short: EMNLP 2022
+publication_short: ""
 draft: false
 featured: false
 image:
