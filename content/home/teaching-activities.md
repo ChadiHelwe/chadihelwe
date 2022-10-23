@@ -18,10 +18,11 @@ experience:
     date_start: '2021-09-01'
     date_end: ''
     description: >-
+        Courses:
         
-       * Mining of Large Datasets
-       * Bases de Données
-       * Données du Web
+        * Mining of Large Datasets
+        * Bases de Données
+        * Données du Web
                 
   - title: 'Teaching Assistant'
     company: 'American University of Beirut'
@@ -29,19 +30,21 @@ experience:
     date_start: '2015-02-01'
     date_end: '2020--05-30'
     description: >-
+        Courses:
         
-       * Artificial Intelligence
-       * Introduction to Programming
-       * Compiler Construction (graduate course)
-       * Machine Learning (graduate course)
-       * 
+        * Artificial Intelligence
+        * Introduction to Programming
+        * Compiler Construction (graduate course)
+        * Machine Learning (graduate course)
+       
   - title: 'Teaching Assistant'
     company: 'Notre Dame University - Louaize'
     company_url: 'https://www.ndu.edu.lb'
     date_start: '2013-02-01'
     date_end: '2013--06-30'
     description: >-
+       Courses:
         
-       * Program Design and Data Abstraction I
-       * Program Design and Data Abstraction II
+        * Program Design and Data Abstraction I
+        * Program Design and Data Abstraction II
 ---
