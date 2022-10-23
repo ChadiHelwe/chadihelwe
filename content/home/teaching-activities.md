@@ -17,10 +17,12 @@ experience:
     company_url: 'https://www.telecom-paris.fr'
     date_start: '2021-09-01'
     date_end: ''
-    description:
-        - Mining of Large Datasets
-        - Bases de Données
-        - Données du Web
+    description:>-
+      Courses:
+      
+        * Mining of Large Datasets
+        * Bases de Données
+        * Données du Web
                 
   - title: 'Teaching Assistant'
     company: 'American University of Beirut'
@@ -30,10 +32,10 @@ experience:
     description: >-
         Courses:
         
-        * Artificial Intelligence
-        * Introduction to Programming
-        * Compiler Construction (graduate course)
-        * Machine Learning (graduate course)
+          * Artificial Intelligence
+          * Introduction to Programming
+          * Compiler Construction (graduate course)
+          * Machine Learning (graduate course)
        
   - title: 'Teaching Assistant'
     company: 'Notre Dame University - Louaize'
