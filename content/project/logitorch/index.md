@@ -12,7 +12,7 @@ summary: >-
 
   * A simple and clean API that can be used with PyTorch Lightning
 
-social
+social:
 - icon: github
     icon_pack: fab
     link: https://github.com/ChadiHelwe
