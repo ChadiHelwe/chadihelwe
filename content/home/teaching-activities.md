@@ -19,7 +19,6 @@ experience:
     date_end: ''
     description:>-
       Courses:
-      
         * Mining of Large Datasets
         * Bases de Données
         * Données du Web
