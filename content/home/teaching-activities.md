@@ -2,7 +2,7 @@
 widget: experience
 widget_id: teaching-activities
 headless: true
-weight: 10
+weight: 20
 title: Teaching Activities
 active: true
 design:
