@@ -18,11 +18,9 @@ experience:
     date_start: '2021-09-01'
     date_end: ''
     description: >-
-        Courses:
-        
-        * Mining of Large Datasets
-        * Bases de Données
-        * Données du Web
+        - Mining of Large Datasets
+        - Bases de Données
+        - Données du Web
                 
   - title: 'Teaching Assistant'
     company: 'American University of Beirut'
