@@ -15,6 +15,7 @@ summary: >-
 links:
   - icon_pack: fab
     icon: github
+    name: Github Page
     url: 'https://github.com/LogiTorch/logitorch' # (required)
     
 draft: false
