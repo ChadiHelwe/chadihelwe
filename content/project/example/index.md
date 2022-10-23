@@ -1,5 +1,5 @@
 ---
-slides: example
+slides: logitorch
 url_pdf: ""
 summary: >-
   LogiTorch is a PyTorch-based library for logical reasoning on natural
