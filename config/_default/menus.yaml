@@ -7,15 +7,18 @@ main:
   - name: Home
     url: '#about'
     weight: 10
+  - name: Teaching Activities
+    url: '#teaching-activities'
+    weight: 20
   - name: Open Source Projects
     url: '#projects'
-    weight: 20
+    weight: 30
   - name: Selected Publications
     url: '#publications'
-    weight: 30
+    weight: 40
   - name: CV
     url: uploads/resume.pdf
-    weight: 70
+    weight: 50
    #- name: Posts
 #     url: '#posts'
 #     weight: 20
