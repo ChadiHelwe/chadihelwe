@@ -41,7 +41,7 @@ education:
       year: 2014
 superuser: true
 last_name: Helwe
-role: Ph.D Student in Artificial Intelligence
+role: Ph.D. Student in Artificial Intelligence
 highlight_name: true
 title: Chadi Helwe
 first_name: Chadi
