@@ -12,10 +12,11 @@ summary: >-
 
   * A simple and clean API that can be used with PyTorch Lightning
 
-social:
-  - icon: github
-    icon_pack: fab
-    link: https://github.com/ChadiHelwe
+links:
+  - icon_pack: fab
+    icon: twitter
+    name: Follow
+    url: 'https://twitter.com/Herb_hewang' # (required)
     
 draft: false
 featured: false
