@@ -1,7 +1,7 @@
 ---
 title: "Reasoning with transformer-based models: Deep learning, but shallow reasoning"
 publication_types:
-  - "0"
+  - "1"
 authors:
   - admin
   - Chloé Clavel
