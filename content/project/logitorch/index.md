@@ -14,9 +14,8 @@ summary: >-
 
 links:
   - icon_pack: fab
-    icon: twitter
-    name: Follow
-    url: 'https://twitter.com/Herb_hewang' # (required)
+    icon: github
+    url: 'https://github.com/LogiTorch/logitorch' # (required)
     
 draft: false
 featured: false
