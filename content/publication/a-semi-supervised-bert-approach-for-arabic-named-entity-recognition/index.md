@@ -5,7 +5,7 @@ publication_types:
 authors:
   - admin
   - Ghassan Dib
-  - Mohsen Shama
+  - Mohsen Shamas
   - Shady Elbassuoni
 publication: Proceedings of the Fifth Arabic Natural Language Processing
   Workshop (WANLP 2020)
