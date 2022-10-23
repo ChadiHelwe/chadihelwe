@@ -15,7 +15,7 @@ experience:
   - title: 'Teaching Assistant'
     company: 'Télécom Paris, Institut Polytechnique de Paris'
     company_url: 'https://www.telecom-paris.fr'
-    date_start: '2021-01-09'
+    date_start: '2021-09-01'
     date_end: ''
     description: >-
         Courses:
@@ -27,8 +27,8 @@ experience:
   - title: 'Teaching Assistant'
     company: 'American University of Beirut'
     company_url: 'hhtps://www.aub.edu.lb'
-    date_start: '2015-01-02'
-    date_end: '2020-30-05'
+    date_start: '2015-02-01'
+    date_end: '2020-05-30'
     description: >-
         Courses:
         
@@ -40,8 +40,8 @@ experience:
   - title: 'Teaching Assistant'
     company: 'Notre Dame University - Louaize'
     company_url: 'https://www.ndu.edu.lb'
-    date_start: '2013-01-02'
-    date_end: '2013-30-06'
+    date_start: '2013-02-01'
+    date_end: '2013-06-30'
     description: >-
        Courses:
         
