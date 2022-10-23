@@ -47,4 +47,4 @@ title: Chadi Helwe
 first_name: Chadi
 email: ""
 ---
-My name is Chadi Helwe, I am a Ph.D. candidate at the Institut Polytechnique de Paris working under the supervision of Prof. Fabian Suchanek and Prof. Chloé Clavel. In my Ph.D. thesis, I am investigating methods to combine symbolic and neural approaches for textual logical reasoning. Prior to my Ph.D. studies, I received a MSc in Computer Science from the American University of Beirut (AUB) and a BSc in Computer Science from Notre Dame University - Louaize (NDU).
+My name is Chadi Helwe, I am a Ph.D. student at the Institut Polytechnique de Paris working under the supervision of Prof. Fabian Suchanek and Prof. Chloé Clavel. In my Ph.D. thesis, I am investigating methods to combine symbolic and neural approaches for textual logical reasoning. Prior to my Ph.D. studies, I received a MSc in Computer Science from the American University of Beirut (AUB) and a BSc in Computer Science from Notre Dame University - Louaize (NDU).
