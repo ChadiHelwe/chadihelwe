@@ -17,7 +17,7 @@ experience:
     company_url: 'https://www.telecom-paris.fr'
     date_start: '2021-09-01'
     date_end: ''
-    description: >-
+    description:
         - Mining of Large Datasets
         - Bases de Données
         - Données du Web
