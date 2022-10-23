@@ -28,7 +28,7 @@ experience:
     company: 'American University of Beirut'
     company_url: 'hhtps://www.aub.edu.lb'
     date_start: '2015-01-02'
-    date_end: '2020--30-05'
+    date_end: '2020-30-05'
     description: >-
         Courses:
         
@@ -41,7 +41,7 @@ experience:
     company: 'Notre Dame University - Louaize'
     company_url: 'https://www.ndu.edu.lb'
     date_start: '2013-01-02'
-    date_end: '2013--30-06'
+    date_end: '2013-30-06'
     description: >-
        Courses:
         
