@@ -1,5 +1,5 @@
 ---
-avatar_filename: avatar.jpg
+avatar_filename: ""
 bio: My research interests include AI, deep learning, nlp, and biomedical imaging.
 interests:
   - Artificial Intelligence
