@@ -20,15 +20,6 @@ sections:
       directions: Office 4C23
       # Automatically link email and phone or display them just as text?
       autolink: true
-      # Choose an email form provider (netlify/formspree)
-      form:
-        provider: netlify
-        formspree:
-          # If using Formspree, enter your Formspree form ID
-          id: ''
-        netlify:
-          # Enable CAPTCHA challenge to reduce spam?
-          captcha: false
     design:
       # Choose how many columns the section has. Valid values: '1' or '2'.
       columns: '1'
