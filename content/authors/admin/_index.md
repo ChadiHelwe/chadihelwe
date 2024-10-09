@@ -26,8 +26,8 @@ social:
     icon_pack: fab
     link: https://www.linkedin.com/in/chadihelwe/
 organizations:
-  - name: Insititut Polytechnique de Paris
-    url: https://www.ip-paris.fr/
+  - name: INRIA, CEDAR Team
+    url: https://team.inria.fr/cedar/
 education:
   courses:
     - course: Ph.D. in Artificial Intelligence
@@ -41,7 +41,7 @@ education:
       year: 2014
 superuser: true
 last_name: Helwe
-role: Postdoctoral Researcher at INRIA
+role: Postdoctoral Researcher
 highlight_name: true
 title: Chadi Helwe
 first_name: Chadi
