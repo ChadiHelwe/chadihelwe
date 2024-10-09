@@ -9,7 +9,7 @@ interests:
 social:
   - icon: envelope
     icon_pack: fas
-    link: mailto:chadi.helwe@telecom-paris.fr
+    link: mailto:chadi.helwe@inria.fr
   - icon: twitter
     icon_pack: fab
     link: https://twitter.com/Chadi_Helwe
@@ -41,10 +41,10 @@ education:
       year: 2014
 superuser: true
 last_name: Helwe
-role: Ph.D. Candidate in Artificial Intelligence
+role: Postdoctoral Researcher at INRIA
 highlight_name: true
 title: Chadi Helwe
 first_name: Chadi
 email: ""
 ---
-My name is Chadi Helwe, I am a Ph.D. candidate at the Institut Polytechnique de Paris working under the supervision of Prof. Fabian Suchanek and Prof. Chloé Clavel. In my Ph.D. thesis, I am investigating methods to combine symbolic and neural approaches for textual logical reasoning. Prior to my Ph.D. studies, I received an MSc in Computer Science from the American University of Beirut (AUB) and a BSc in Computer Science from Notre Dame University - Louaize (NDU).
+I am a Postdoctoral Researcher at INRIA within the CEDAR team, France, working on bias detection and mitigation in large language models. I completed my Ph.D. in Artificial Intelligence at the Institut Polytechnique de Paris, under the supervision of Prof. Fabian Suchanek and Prof. Chloé Clavel, where I focused on evaluating and improving the reasoning abilities of language models. I hold an MSc in Computer Science from the American University of Beirut and a BSc from Notre Dame University - Louaize. My research spans areas such as Arabic Natural Language Processing (NLP), machine learning for healthcare, and enhancing the reasoning capabilities of language models.
