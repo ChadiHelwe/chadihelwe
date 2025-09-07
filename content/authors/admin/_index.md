@@ -11,7 +11,7 @@ interests:
 social:
   - icon: envelope
     icon_pack: fas
-    link: mailto:chadi.helwe@inria.fr
+    link: mailto:chadi.helwe@kaust.edu.sa
   - icon: twitter
     icon_pack: fab
     link: https://twitter.com/Chadi_Helwe
