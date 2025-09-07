@@ -28,8 +28,8 @@ social:
     icon_pack: fab
     link: https://www.linkedin.com/in/chadihelwe/
 organizations:
-  - name: INRIA, CEDAR Team
-    url: https://team.inria.fr/cedar/
+  - name: KAUST, OPTIMAL Lab
+    url: https://sites.google.com/view/optimal-lab/home
 education:
   courses:
     - course: Ph.D. in Artificial Intelligence
